@@ -7,8 +7,17 @@ matplotlib
 
 gnuplot
 
-## log stat
+## python scripts
+
+run cmdline
 
 ## latex
 
 add figures to latex
+
+Special characters
+
+## 
+
+
+
