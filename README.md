@@ -20,7 +20,7 @@ Special characters
 
 ## paper writing
 
-how to describe an experiment/plot?
+#### How to describe an experiment/plot?
 
 1. Where. 
     - "In FigureX / In the table on Page3, we show that ..."
@@ -30,9 +30,9 @@ how to describe an experiment/plot?
     - "We run xxx on yyy system and measure the CDF of latency for every requests. "
 4. Describe plot. 
     - "We see that as parallelism increases, the latency dropped by xx%. XXX has highest latency."
-4*. Highlights. What we want the readers to notice.
+5. Highlights. What we want the readers to notice.
     - "When parallelism==4, we found that ...sth interesting..."
-5. Implifications/Conclusions. 
+6. Implifications/Conclusions. 
     - "The SysX has xx% lower latency. The SysX system achieves better performance while using less resources."
 
 
