@@ -14,6 +14,13 @@ run cmdline
 
 ## latex
 
+#### symbols 
+
+- https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
+- https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits
+- https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+- https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols
+
 add figures to latex
 
 Special characters
